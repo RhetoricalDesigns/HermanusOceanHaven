@@ -1,0 +1,8 @@
+{
+  "name": "Stable Hermanus Whale Haven",
+  "description": "Live Southern Right whale tracker, eco-safari booking engine, interactive Walker Bay map, automated sighting notifications, and comprehensive Hermanus visitor travel guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
